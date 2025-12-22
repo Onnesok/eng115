@@ -72,7 +72,7 @@ export default function Home() {
       <nav className="fixed top-0 left-0 w-full p-8 flex justify-between items-center z-40 mix-blend-difference text-paper pointer-events-none">
         <div className="flex items-center space-x-2 pointer-events-auto">
           <BookOpen className="w-5 h-5" />
-          <span className="font-serif font-bold tracking-wider">LIT.115</span>
+          <span className="font-serif font-bold tracking-wider">ENG115</span>
         </div>
         <div className="hidden md:flex space-x-6 text-sm font-sans tracking-widest pointer-events-auto">
           <span className="opacity-50">COLLECTION</span>
