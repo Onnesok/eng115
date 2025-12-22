@@ -11,7 +11,7 @@ const stories = [
     title: 'Shooting an Elephant',
     author: 'George Orwell',
     year: '1936',
-    excerpt: 'I perceived in this moment that when the white man turns tyrant it is his own freedom that he destroys.',
+    excerpt: 'In Moulmein, in Lower Burma, I was hated by large numbers of people–the only time in my life that I have been important enough for this to happen to me.',
     theme: 'Imperialism',
     imageColor: 'bg-moss-800',
     number: '01'
@@ -21,7 +21,7 @@ const stories = [
     title: 'A Clean, Well-Lighted Place',
     author: 'Ernest Hemingway',
     year: '1933',
-    excerpt: 'It was a nothing that he knew too well. It was all a nothing and a man was a nothing too.',
+    excerpt: 'It was very late and everyone had left the café except an old man who sat in the shadow the leaves of the tree made against the electric light.',
     theme: 'Existentialism',
     imageColor: 'bg-stone-800',
     number: '02'
@@ -31,7 +31,7 @@ const stories = [
     title: 'Esme',
     author: 'Saki',
     year: '1911',
-    excerpt: 'She was one of those women who seem to be born with a thirst for everything that is out of reach.',
+    excerpt: '"All hunting stories are the same," said Clovis; "just as all Turf stories are the same, and all--"',
     theme: 'Satire',
     imageColor: 'bg-emerald-900',
     number: '03'
@@ -41,7 +41,7 @@ const stories = [
     title: 'The Black Cat',
     author: 'Edgar Allan Poe',
     year: '1843',
-    excerpt: 'I was penniless, and the end of my life was approaching. I spoke of my cat, of my old cat.',
+    excerpt: 'FOR the most wild yet most homely narrative which I am about to pen, I neither expect nor solicit belief.',
     theme: 'Horror',
     imageColor: 'bg-zinc-900',
     number: '04'
@@ -51,7 +51,7 @@ const stories = [
     title: 'A Modest Proposal',
     author: 'Jonathan Swift',
     year: '1729',
-    excerpt: 'I have been assured by a very knowing American of my acquaintance in London, that a young healthy child well nursed is at a year old a most delicious, nourishing, and wholesome food.',
+    excerpt: 'It is a melancholy object to those, who walk through this great town, or travel in the country, when they see the streets, the roads and cabin doors crowded with beggars of the female sex...',
     theme: 'Social Irony',
     imageColor: 'bg-green-900',
     number: '05'
