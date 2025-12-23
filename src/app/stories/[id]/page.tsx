@@ -304,6 +304,12 @@ export default function StoryPage({ params }: { params: { id: string } }) {
         </Link>
 
         <div className="flex items-center space-x-4 text-moss-800">
+          <Link
+            href={`/stories/${params.id}/summary`}
+            className="hidden md:flex items-center space-x-2 px-4 py-2 border border-moss-300 rounded-full hover:bg-moss-100 transition-colors"
+          >
+            <span className="font-sans text-xs tracking-widest uppercase">Summary</span>
+          </Link>
           <BookOpen className="w-5 h-5 opacity-50" />
         </div>
       </nav>
