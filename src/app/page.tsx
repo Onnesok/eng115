@@ -106,8 +106,15 @@ export default function Home() {
             <p className="font-serif text-xl md:text-2xl leading-relaxed text-moss-800">
               Five masterpieces that challenge our perception of morality, society, and the human condition.
             </p>
-            <div className="h-px w-24 bg-moss-900 mt-8 mb-4" />
-            <p className="font-sans text-sm text-moss-600">SCROLL TO EXPLORE</p>
+            <div className="flex flex-col sm:flex-row items-start sm:items-center gap-6 mt-8 mb-4">
+              <Link href="/quiz">
+                <button className="px-8 py-3 bg-moss-900 text-moss-100 font-sans tracking-widest text-sm hover:bg-moss-800 transition-colors duration-300">
+                  TAKE A QUIZ
+                </button>
+              </Link>
+              <div className="h-px w-24 bg-moss-900 sm:hidden" />
+            </div>
+            <p className="font-sans text-sm text-moss-600 mt-4">SCROLL TO EXPLORE</p>
           </motion.div>
         </div>
 
